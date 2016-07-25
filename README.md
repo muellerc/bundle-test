@@ -1,0 +1,1 @@
+See https://docs.oracle.com/javase/tutorial/i18n/resbundle/concept.html
